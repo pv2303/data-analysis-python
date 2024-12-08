@@ -1,5 +1,5 @@
 ## Data Playground
-Hey, Welcome to Data Analysis's repo, a.k.a, my **data playground**. Here you'll find applications of what I do and how I work with data. You'll find projects ranging from data engineering, analysis and visualization to statistical modeling and prediction using Python. My goal is to show my capacity to understand problems as well as wrap data to answer them by exploring Python libs and capabilities.
+Hey, Welcome to Data Analysis's repo, a.k.a, my **data playground**. Here you'll find applications of what I do and how I work with data. You'll find projects ranging from data engineering, analysis and visualization to statistical modeling and prediction. My goal is to show my capacity to understand problems as well as wrap data to answer them.
 
 In short, these projects will show my ability to:
 * **Make the right questions.** Knowing what you need is the key to build a proper analysis.
